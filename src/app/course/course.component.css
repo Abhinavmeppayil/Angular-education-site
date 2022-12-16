@@ -1,0 +1,24 @@
+.course{
+    background-color: #eff6ff;
+    /* background-color: aqua; */
+    padding: 50px 100px;
+
+}
+img{
+    height: 200px;
+    width: 200px;
+    /* align-items: center;
+    justify-content: center;
+    text-align: center; */
+}
+.box{
+    background-color: #ffffff;
+    padding: 10px 20px;
+}
+@media  screen and(max-width:600px) {
+    .course{
+        background-color: #eff6ff;
+        padding: 50px 10px;
+    }
+    
+}
